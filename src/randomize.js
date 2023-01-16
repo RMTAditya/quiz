@@ -3,7 +3,7 @@ export function randomize(values) {
       randomIndex;
   
     // While there remain elements to shuffle.
-    while (index != 0) {
+    while (index !== 0) {
       // Pick a remaining element.
       randomIndex = Math.floor(Math.random() * index);
       index--;
