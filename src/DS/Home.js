@@ -6,7 +6,7 @@ import {FaHandPointRight,FaHandPointLeft} from 'react-icons/fa'
 
 const Home = () => {
   return (
-    <div className='bg-blue-900 h-screen lg:p-32 p-8 flex flex-col' >
+    <div className='bg-blue-900  lg:p-32 p-8 flex flex-col' >
       {/* <Dbms/> */}
       <div className='bg-gray-600 flex flex-col justify-center items-center p-8'>
       <h1 className='text-2xl font-medium lg:text-4xl pb-2'>Diploma in Data Science</h1>
